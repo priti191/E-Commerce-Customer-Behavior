@@ -1,6 +1,6 @@
- Intern ID: CITS4323
+ # Intern ID: CITS4323
 
-# E-Commerce Customer Behavior Analysis
+# E-Commerce-Customer-Behavior 
 
 ## 📌 Project Overview
 This project focuses on analyzing customer behaviour in an e-commerce platform using Data Science techniques. The aim is to understand customer demographics, purchasing patterns, income distribution, and website engagement.
